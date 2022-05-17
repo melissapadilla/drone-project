@@ -23,8 +23,6 @@ me.move_forward(300)
 me.rotate_counter_clockwise(90)
 #turn forward
 me.rotate_counter_clockwise(90)
-me.move_forward(300)
-me.rotate_counter_clockwise(90)
 #landing
 sleep(.5)
 me.land()
