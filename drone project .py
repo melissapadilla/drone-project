@@ -27,4 +27,4 @@ me.move_forward(300)
 me.rotate_counter_clockwise(90)
 #landing
 sleep(.5)
-boof.land()
+me.land()
